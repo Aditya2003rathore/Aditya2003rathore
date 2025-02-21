@@ -32,9 +32,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, learn
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-Aditya2003rathore&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya2003rathore&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-Aditya2003rathore&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya2003rathore&layout=compact&theme=tokyonight)
 
 ---
 
