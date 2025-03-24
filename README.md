@@ -152,7 +152,7 @@
   <summary><h2>🌐 Connect With Me</h2></summary>
   <br>
   <div align="center">
-    <a href="#" target="_blank">
+    <a href="linkedin.com/in/aditya-singh-00b98221a" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="#" target="_blank">
